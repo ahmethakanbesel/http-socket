@@ -1,0 +1,3 @@
+SW_PORT = 8000
+THREAD_COUNT = 5
+HOSTNAME = 'localhost'
